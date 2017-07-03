@@ -1,3 +1,3 @@
 # UnityMove
 
-this is a script for easy character controlls
+This is a script for easy character controls.
